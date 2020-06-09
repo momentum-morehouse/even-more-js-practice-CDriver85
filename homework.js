@@ -15,12 +15,40 @@
 // remember that even numbers have a remainder of 0 when you divide them by 2
 // call your function on this array of numbers [4, 37, 18, 29, 52, 103, 22]
 
+function product(num,1 num2) {
+  let ( num1 * num2);
+  return product;
+}
+console.log(4 * 689)
 //Problem 3
 // write a function called five that takes a word and prints it in the console
 // five times
 // call your function on the word "pineapple" to test it
 
+
+
+function evens(arr) {
+
+  let result = arr.filter(arr => % 2 == 0);
+  return result;
+
+}
+console.log(evens([4, 37, 18, 29, 52, 103, 22]));
 //Problem 4
 // write a function called shortWords that takes an array of words and then
 // returns a new array with only the words that are 3 letters long or less
-// call your function on this array ["basin", "pit", "cheese", "bun", "river"]
+// call your function on this array ["basin", "pit", "cheese", "bun", "river"]  
+for (let counter =0; ) <; counter++){
+console.log("pineapple")}
+
+
+
+function shortwords(list) {
+  let shortwords = ["basin", "cheese", "pit", "bun", "river"];
+
+  let length = arrary.length[3];
+  //let max = 3
+  //for ( i=0; i < shortword.length; i++))}
+  if (length = newArray);
+  //max = arr[len];
+}
